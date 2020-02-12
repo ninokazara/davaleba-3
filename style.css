@@ -1,0 +1,38 @@
+ul{
+	list-style: none;
+}
+a{
+	 text-decoration: none;
+}
+li{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 0;
+	margin-right: 10px;
+}
+
+.logo{
+	width: 100.18px;
+	height: 30.57px
+	margin-right:0;
+}
+.month{
+	font-size: 48px;
+	color: #ffff;
+	background: #3D58A6;
+	width:52px;
+	height: 64px;
+}
+.box{
+	display: inline-block;
+}
+.text{
+	display: inline-block;
+	width: 929.02px;
+	height: 360px;
+}
+.poto{
+	width: 270px;
+	height: 210px;
+	margin-top: 0;
+}	
